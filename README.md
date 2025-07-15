@@ -61,4 +61,4 @@ The script accepts the following command-line arguments:
 
 ## License
 
-This project is licensed under the MIT License. (You can replace this with your preferred license if different.)
+This project is licensed under the MIT License.
